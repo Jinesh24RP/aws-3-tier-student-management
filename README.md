@@ -36,6 +36,12 @@ Python, Flask, MySQL, PyMySQL, Amazon EC2, Amazon RDS, Application Load Balancer
 
 ## Future Improvements
 - Configure HTTPS using a domain and an SSL/TLS certificate.
+
+## Local Setup
+1. Clone this repository:
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   cd aws-3-tier-student-management
 - Add student creation, editing, and deletion features.
 - Improve application styling and error handling.
 
